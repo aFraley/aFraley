@@ -28,5 +28,5 @@ satellite imagery, agriculture, and infrastructure inspection.
 
 ### How I work
 
-GitHub issues as specs, agentic coding tools with explicit review gates on what the model
+Tickets as specs (Linear these days), agentic coding tools with explicit review gates on what the model
 produces, and the architecture written down before it gets built.
