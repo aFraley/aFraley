@@ -12,8 +12,6 @@ satellite imagery, agriculture, and infrastructure inspection.
 - **Decker**, bridge deck inspection (Alynix): Django/DRF and Vue 3 on a multi-tenant PostGIS
   model, with a thermal imaging pipeline that cut review time from weeks to days. Shipped to DOT
   pilots in multiple states. Private.
-- **Agricultural data hub** for a national agriculture ministry, pro bono: Django, PostGIS,
-  Vue 3, and MapLibre over Sentinel-1, Sentinel-2, and drought anomaly rasters. Private.
 
 ### Public repos
 
