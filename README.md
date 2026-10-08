@@ -25,8 +25,3 @@ satellite imagery, agriculture, and infrastructure inspection.
   one idea each, built from scratch in NumPy and pushed until it breaks. Live demos.
 - washco_ag (or its simpler public version): Sentinel-2 farmland for Washington County, AR.
 -->
-
-### How I work
-
-Tickets as specs (Linear these days), agentic coding tools with explicit review gates on what the model
-produces, and the architecture written down before it gets built.
